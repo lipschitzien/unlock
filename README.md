@@ -1,6 +1,6 @@
 # unlock
 
-Introduction: C’est un projet composé par 3 partie: Machine Learning(Python), Android(Java), Arduino(Python).
+Introduction: C’est un projet composé par 3 parties: Machine Learning(Python), Android(Java), Arduino(Python).
 
 Il s'agit d'un système de serrure intelligente à reconnaissance faciale qui peut être utilisé pour contrôler l'accès à une boîte aux lettres ou à d'autres appareils domestiques.
 
