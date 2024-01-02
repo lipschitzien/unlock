@@ -26,7 +26,7 @@ La sécurité : le système permet de contrôler l'accès à une zone de manièr
 La commodité : le système permet aux utilisateurs d'ouvrir ou de fermer la serrure à distance.
 L'efficacité : le système peut être utilisé pour contrôler d'autres appareils domestiques.
 
-**__C'est un projet en cours de développement, avec une date de livraison prévue en février. **__
+**__Le projet est terminé en termes de fonctionnalités de base, les interfaces sont en cours de développement, avec une date de livraison prévue en février. **__
 
 
 <img width="289" alt="m1" src="https://github.com/lipschitzien/unlock/assets/110629446/d1fae2c0-9a06-4d32-abf7-d0a486ecb281">
