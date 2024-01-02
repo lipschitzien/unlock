@@ -25,3 +25,5 @@ Ce projet est un exemple de la manière dont la technologie de la reconnaissance
 La sécurité : le système permet de contrôler l'accès à une zone de manière sécurisée.
 La commodité : le système permet aux utilisateurs d'ouvrir ou de fermer la serrure à distance.
 L'efficacité : le système peut être utilisé pour contrôler d'autres appareils domestiques.
+
+*C'est un projet en cours de développement, avec une date de livraison prévue en février. *
