@@ -30,6 +30,9 @@ La sécurité : le système permet de contrôler l'accès à une zone de manièr
 
 **__Le projet est terminé en termes de fonctionnalités de base, les interfaces sont en cours de développement, avec une date de livraison prévue en février. **__
 
+<img width="822" alt="f2" src="https://github.com/lipschitzien/unlock/assets/110629446/27d36318-967d-43a2-8ae1-35b0d168f464">
+
+
 <img width="289" alt="m1" src="https://github.com/lipschitzien/unlock/assets/110629446/1aed8340-f087-4457-957b-0417a9aa63ba">
 
 <img width="310" alt="m5" src="https://github.com/lipschitzien/unlock/assets/110629446/1f357495-9089-48db-960c-b54f3b34ebff">
@@ -37,4 +40,5 @@ La sécurité : le système permet de contrôler l'accès à une zone de manièr
 <img width="299" alt="m3" src="https://github.com/lipschitzien/unlock/assets/110629446/145e2b35-7e78-4dcb-8263-6fa19f05b644">
 
 <img width="292" alt="m4" src="https://github.com/lipschitzien/unlock/assets/110629446/9be9496c-9d5c-43de-b253-18f9fe1640af">
+
 
