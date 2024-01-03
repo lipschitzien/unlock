@@ -4,6 +4,9 @@ Introduction: C’est un projet composé par 3 parties: Machine Learning(Python)
 
 Il s'agit d'un système de serrure intelligente à reconnaissance faciale(Eigenface) qui peut être utilisé pour contrôler l'accès à une boîte aux lettres ou à d'autres appareils domestiques.
 
+<img width="1417" alt="f" src="https://github.com/lipschitzien/unlock/assets/110629446/4fd84014-7b5d-4d52-8f5f-de1b0fe8f299">
+
+
 Le système est composé de 2 éléments principaux :
 
 Un Raspberry Pi 4 qui sert de centre de contrôle, qui contrôle la serrure électronique. Une application mobile qui permet aux utilisateurs de contrôler la serrure à distance.
